@@ -3,5 +3,4 @@
 int main() {
         std::cout << "Go Trojans!" << std::endl;
         std::cout << "UCLA stinks!" << std::endl;
-	hello!
 }
